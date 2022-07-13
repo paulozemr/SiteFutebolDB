@@ -1,0 +1,28 @@
+{
+  "times": [
+    {
+      "nome": "ALadhwuhwd",
+      "id": 1
+    }
+  ],
+  "jogadores": [
+    {
+      "nome": "jooj",
+      "anoNascimento": "2002",
+      "peso": "100",
+      "altura": "1,90",
+      "funcao": "ala",
+      "timeId": 1,
+      "id": 1
+    },
+    {
+      "nome": "jooj",
+      "anoNascimento": "2002",
+      "peso": "100",
+      "altura": "1,90",
+      "funcao": "ala",
+      "timeId": 1,
+      "id": 2
+    }
+  ]
+}
